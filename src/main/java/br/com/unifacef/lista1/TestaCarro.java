@@ -7,14 +7,13 @@ package br.com.unifacef.lista1;
 
 import javax.swing.JOptionPane;
 
-/**jfdgnjnfdgdnngdn
 /**
  *
  * @author ferdi
  */
 public class TestaCarro {
 
-    /**
+    /** 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
