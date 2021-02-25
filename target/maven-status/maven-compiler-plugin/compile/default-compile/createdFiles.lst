@@ -1,2 +1,6 @@
-br\com\unifacef\lista1\Carros.class
-br\com\unifacef\lista1\TestaCarro.class
+br\com\unifacef\lista1\exemplo\Carros.class
+br\com\unifacef\lista1\exe2\TestaCliente.class
+br\com\unifacef\lista1\exemplo\TestaCarro.class
+br\com\unifacef\lista1\exe1\Aluno.class
+br\com\unifacef\lista1\exe1\TestaAluno.class
+br\com\unifacef\lista1\exe2\Cliente.class
